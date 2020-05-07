@@ -7,7 +7,7 @@ This is a command line note taking app.
 3) npm i chalk
 4) node app.js
 
-##Commands and operations
+## Commands and operations
 1) Add a note : node app.js add --title="Movies" --body="Jungle book"
 2) Remove a note : node app.js rm --title="Movies"
 3) List of notes : node app.js ls
