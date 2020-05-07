@@ -1,5 +1,5 @@
 # Jot-A-Note
-This is a command line note taking app. 
+This is a command line note taking app built on node.js
 
 ## How to run?
 1) npm init
